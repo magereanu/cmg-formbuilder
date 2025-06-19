@@ -7,6 +7,10 @@
 
 A lightweight, extensible PHP FormBuilder class using Bootstrap 5.3 markup. Ideal for creating dynamic forms with validation, CSRF protection, file uploads, and JSON schema import/export.
 
+## 📸 Screenshot
+
+![FormBuilder Screenshot](assets/screenshot.png)
+
 ---
 
 ## ✨ Features
