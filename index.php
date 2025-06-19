@@ -69,6 +69,7 @@ $schemaJson =  $form->exportSchema();
 echo '<pre>'.$schemaJson.'</pre>';
 $form = new FormBuilder();
 $form->importSchema($schemaJson);
+$form->validate($_POST);
 $form->render();
 ?>
         </div>

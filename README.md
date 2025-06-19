@@ -124,3 +124,12 @@ echo $form->exportMarkdownDoc();
 ## ✅ License
 
 MIT © CodeMagster.com
+
+
+## 📬 Contact
+
+Created by [Magereanu](https://codemagster.com)
+
+- 📧 Email: contact@codemagster.com
+- 🌐 Website: [https://codemagster.com](https://codemagster.com)
+- 🐙 GitHub: [@magereanu](https://github.com/magereanu)
