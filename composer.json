@@ -1,0 +1,21 @@
+{
+  "name": "codemagster/formbuilder",
+  "description": "Lightweight PHP FormBuilder with Bootstrap 5.3 support.",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "CodeMagster",
+      "homepage": "https://codemagster.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CMG\\FormBuilder\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}

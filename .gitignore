@@ -1,0 +1,26 @@
+# Composer dependencies
+/vendor/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+/.idea/
+/.vscode/
+
+# Log and cache files
+*.log
+/cache/
+/tmp/
+
+# PHPUnit and test results
+phpunit.xml
+phpunit.result.cache
+
+# Environment config
+.env
+.env.*
+
+# Composer lock file (optional if library)
+composer.lock
